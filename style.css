@@ -2,12 +2,54 @@
     text-align: center;
     color: aqua;
 }
-.page_container {
-    background-color: black;
-    height: 100vh;
-}
 a:link {
     text-decoration: none;
     color: crimson;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.P1 {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+.P2 {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+.Box1 {
+    text-align: center;
+    border-radius: 20px;
+    background-color: white;
+}
+.Projects {
+    text-align: center;
+    font-style: italic;
+}
+.ima1 {
+
+    text-align: center;
+}
+.head {
+    text-align: center;
+    font-style: italic;
+}
+.box2 {
+    border-color: black;
+    border-style: solid;
+}
+.text1 {
+    text-align: center;
+    font-style: italic;
+}
+.Hobbies {
+    text-align: center;
+}
+.img2 {
+    border-color: black;
+    border-style: solid;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
