@@ -24,6 +24,8 @@ a:link {
 }
 .Projects {
     text-align: center;
+    display: flex;
+    flex-direction: column;
     font-style: italic;
 }
 .ima1 {
