@@ -58,3 +58,13 @@ a:link {
 .Submit {
     text-align: center;
 }
+#Note {
+    z-index: 5;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    bottom: 10px;
+    left: 10px;
+    border: 1px dashed rgb(6, 6, 6);
+    background-color: rgb(241, 241, 241);
+  }
