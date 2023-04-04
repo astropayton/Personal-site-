@@ -24,6 +24,8 @@ a:link {
 }
 .Projects {
     text-align: center;
+    display: flex;
+    flex-direction: column;
     font-style: italic;
 }
 .ima1 {
@@ -52,4 +54,7 @@ a:link {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+}
+.Submit {
+    text-align: center;
 }
